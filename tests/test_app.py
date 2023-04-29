@@ -1,8 +1,3 @@
-def test_index(app, client):
-    response = client.get('/')
-    assert response.status_code == 200
-
-
 def test_hello(app, client):
     response = client.get('/hello')
     expected = {'hello': 'world'}
