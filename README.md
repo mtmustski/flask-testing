@@ -1,4 +1,6 @@
 # flask-testing
+![Unit Tests](https://github.com/mtmustski/flask-testing/actions/workflows/unit-testing.yml/badge.svg)
+![Docker Image](https://github.com/mtmustski/flask-testing/actions/workflows/docker.yml/badge.svg)
 
 An example repository of a Python Flask based webapp running in docker.
 
